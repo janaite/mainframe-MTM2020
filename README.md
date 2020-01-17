@@ -4,7 +4,7 @@ Discover associations between frequent item sets
 * Uses [Apriori algorithm](https://en.wikipedia.org/wiki/Apriori_algorithm)
 * Implemented in COBOL 
 * Runs on z/OS
-* **This software was created for Master The Mainframe 2020 IBM's challange**
+* **This software was created for IBM Master The Mainframe 2020**
 
 (2021-01-17)
 
